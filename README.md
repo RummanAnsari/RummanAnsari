@@ -25,7 +25,7 @@ Mumbai, India
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 -->
-<a href="https://www.facebook.com/rummanansari" target="_blank">
+<a href="https://www.facebook.com/merummanansari" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
