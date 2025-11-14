@@ -1,12 +1,9 @@
-## Hi there 👋
-
-
 # Rumman Ansari
 *D365 FO Consultant | X++ Developer | Trainer | Tech Blogger*
 
 Helping learners and professionals master **Dynamics 365 Finance & Operations**, **X++**, and related technologies. Passionate about coding, problem-solving, and creating practical tutorials for students and developers.
 
-Mumbai, India
+Kolkata, India
 
 ---
 
