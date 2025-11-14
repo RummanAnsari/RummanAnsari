@@ -15,7 +15,7 @@ Kolkata, India
 <a href="https://www.youtube.com/@RummanAnsari" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://www.rummanansari.com" target="_blank">
+<a href="https://www.rummanansari.com/tuition/" target="_blank">
   <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://twitter.com/merummanansari" target="_blank">
