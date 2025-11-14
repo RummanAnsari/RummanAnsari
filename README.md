@@ -11,9 +11,6 @@ Mumbai, India
 ---
 
 ## Social Media & Contact 📱
-[LinkedIn](https://www.linkedin.com/in/rummanansari) · [YouTube](https://www.youtube.com/@RummanAnsari) · [Website](https://www.rummanansari.com) ·  
-
-## Social Media & Contact 📱
 
 <a href="https://www.linkedin.com/in/rummanansari" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,9 +21,14 @@ Mumbai, India
 <a href="https://www.rummanansari.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://twitter.com/rummanansari" target="_blank">
+<!--<a href="https://twitter.com/rummanansari" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+-->
+<a href="https://www.facebook.com/rummanansari" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
 
 
 ---
