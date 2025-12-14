@@ -42,12 +42,7 @@ Kolkata, India
 
 ## GitHub Stats 📊
 ![Rumman's GitHub stats](https://github-readme-stats.vercel.app/api?username=rummanansari&show_icons=true&theme=dark)
-
----
-
-## GitHub Trophies 🏆
-![Rumman's Trophies](https://github-profile-trophy.vercel.app/?username=rummanansari&theme=flat)
-
+ 
 ---
 
 ## Popular Repositories 🔥
